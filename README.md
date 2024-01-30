@@ -1,4 +1,4 @@
-## 'card-ui-02'
+## '상품 소개 - CSS Counter Style'
 
 <br>
 
