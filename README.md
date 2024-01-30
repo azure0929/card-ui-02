@@ -52,8 +52,8 @@ Environment
 <div class="item">
   <div class="photo">
     <a href="#none">
-      <img src="images/item-01.jpg" alt="" />
-      <img src="images/item-01-hover.jpg" alt="" />
+      <img src="images/item-01.jpg" alt="item1" />
+      <img src="images/item-01-hover.jpg" alt="item1 hover" />
     </a>
   </div>
   <div class="detail">
